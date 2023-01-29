@@ -7,7 +7,7 @@ public class IFprogram {
 
 	public static void main(String[] args) {
 	int pwd;
-	System.out.println("enter password:-");
+	System.out.println("ENTER PASSWORD:-");
 	Scanner s=new Scanner(System.in);
 	pwd=s.nextInt();
 	if(pwd==786)
