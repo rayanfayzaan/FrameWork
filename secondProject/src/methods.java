@@ -9,6 +9,7 @@ public class methods {
 		System.out.println("Enter your e-mail");
 		}
 	
+	
 	   public static void main(String[] args) {
 		/*whenever we feel some set of lines of code multiple time 
 		 * and should be outside the main and called by objects
@@ -26,9 +27,8 @@ public class methods {
 	       obj2.secondmethod();
 	       obj2.getClass();
 	       
-	       method1 obj3 = new  method1();
-	       obj3.thirdmethod();
-	       obj3.getClass();
+	       obj2.thirdmethod();
+	       obj2.getClass();
 	       
 	       
 	   }
