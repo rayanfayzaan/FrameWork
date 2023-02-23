@@ -8,7 +8,7 @@ public static void main(String[] args) {
 	 obj.Goldcard();
 	 obj.visacard();
 	 obj.Endcall();
-	}
+	} 
 
 @Override
 public void visacard() {

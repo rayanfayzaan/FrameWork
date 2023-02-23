@@ -9,7 +9,7 @@ public class INGBank implements PCBanking {
 	            obj.Goldcard();
 	
 	}         
-	@Override
+	@Override 
 	public void visacard() {
 	System.out.println("Press 1 for French.");
 		

@@ -5,7 +5,7 @@ public class ifelseprogram {
 	public static void main(String[] args) {
 		
 		int marks;
-		System.out.println("Enter your marks:-");
+		System.out.println("Enter your marks:-"); 
 		Scanner s=new Scanner(System.in);
 		marks=s.nextInt();
 		if(marks>=60 && marks<100)

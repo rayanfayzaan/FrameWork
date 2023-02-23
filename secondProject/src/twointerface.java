@@ -1,4 +1,4 @@
-
+ 
 public class twointerface implements PCBanking, Newinterface{
 	 
 

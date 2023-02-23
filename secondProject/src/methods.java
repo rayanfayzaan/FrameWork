@@ -11,7 +11,7 @@ public class methods {
 	
 	
 	   public static void main(String[] args) {
-		/*whenever we feel some set of lines of code multiple time 
+		/*whenever we feel some set of lines of code multiple time  
 		 * and should be outside the main and called by objects
 		 */
 		

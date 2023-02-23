@@ -9,6 +9,7 @@ public class method1 {
 	   System.out.println("Place of Birth");
    }
    
+   
    public void thirdmethod() 
    {
     System.out.println("Belgium");

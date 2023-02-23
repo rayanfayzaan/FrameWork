@@ -9,7 +9,7 @@ public class forloop {
 		Scanner s=new Scanner(System.in);
 		pwd=s.nextInt();
 		
-		if(pwd==786)
+		if(pwd==786) 
 		{
 		
 		System.out.println("my name is shoaib");
