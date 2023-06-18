@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Sanitytest">
+  <test name="Test">
+    
+<groups>
+<run>
+<include name = "Sanity"/>
+<include name = "regression"/>
+
+
+</run>
+</groups>
+
+<classes>
+
+      <class name="Testng.Carloan"/>
+      <class name="Testng.PersonalLoan"/>
+      <class name="Testng.HomeLoan"/>
+      <class name="Testng.Smartloan"/>
+      <class name="Testng.BasicFrameTest"/>
+      <class name="Testng.HolidaysLoan"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
